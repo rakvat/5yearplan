@@ -1,0 +1,5 @@
+*.class
+*.lp
+plancode/plan.txt
+plancode/test*
+plancode/.~lock*
